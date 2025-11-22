@@ -17,4 +17,4 @@ python calculator.py
 - Divide
 
 ## Screenshots
-Place screenshots inside `screenshots/` folder.
+Place screenshots inside `Screenshots/` folder.
