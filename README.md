@@ -4,8 +4,7 @@
 A simple console-based calculator with basic operations.
 
 ## Installation
-1. Clone repo
-2. Run:
+1. Run:
 ```
 python calculator.py
 ```
@@ -17,4 +16,4 @@ python calculator.py
 - Divide
 
 ## Screenshots
-screenshots are inside 'screenshots/' folder.
+screenshots are inside `screenshots/` folder.
